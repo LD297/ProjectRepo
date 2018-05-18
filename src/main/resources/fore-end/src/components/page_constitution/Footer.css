@@ -1,0 +1,12 @@
+.Footer {
+  border-top: solid 1.5px #ecf0eb;
+  flex: 0 0 auto;
+  padding-bottom: 3%;
+  background-color: white;
+}
+.Footer h3 {
+  margin-top: 10%;
+}
+.LabelText {
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+.AddPriceLabel {
+  /*border: 1px solid red;*/
+  position: relative;
+  margin-left: -30.2%;
+}
+.AddPriceButton {
+  width: 94%;
+  margin-left: 72%;
+}
+.DynamicDeleteButton {
+  cursor: pointer;
+  position: relative;
+  top: 4px;
+  font-size: 24px;
+  color: #999;
+  transition: all .3s;
+}
+.DynamicDeleteButton:hover {
+  color: #777;
+}
+.DynamicDeleteButton[disabled] {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+.PriceInput {
+  float: left;
+  margin-left: -8%;
+}
+.FormItem {
+  padding-left: 25.6%;
+  text-align: left;
+}
+.SubmitBtn {
+  margin-left: -34%;
+  width: 30%;
+}
+.SubmitTip {
+  margin-left: -35%;
+}

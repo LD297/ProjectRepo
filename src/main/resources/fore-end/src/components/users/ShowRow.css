@@ -1,0 +1,10 @@
+.TagRow {
+  margin-top: 3%;
+}
+.Tag {
+  font-size: 20px;
+}
+.MoreTag {
+  font-size: 20px;
+  margin-left: -10%;
+}

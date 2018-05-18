@@ -1,0 +1,36 @@
+.stepTips {
+  float: left;
+  padding: 2px;
+  margin-left: 5px;
+  width: 13%;
+}
+.stepTips h3 {
+  float: left;
+  color: green;
+}
+.steps {
+  background-color: transparent;
+  border: none;
+  float: left;
+}
+.clearFloat {
+  clear: both;
+}
+.seatsFrame {
+  border: 1px solid red;
+  float: right;
+  width: 85%;
+  padding: 5% 0;
+  margin-bottom: 5%;
+}
+.seats {
+  /*background-color: #b0ebff;*/
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+}
+.seatsInLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

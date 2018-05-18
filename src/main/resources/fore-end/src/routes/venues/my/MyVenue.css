@@ -1,0 +1,13 @@
+.ShowMyVenueDiv {
+  padding-bottom: 5%;
+}
+.VenueInfoDiv {
+  margin: 2% auto 0;
+  width: 56%;
+}
+.ShowVenueSeatsDiv {
+  text-align: center;
+  margin: 0 auto;
+  padding-right: 3%;
+  width: 80%;
+}

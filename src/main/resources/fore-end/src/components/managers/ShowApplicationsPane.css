@@ -1,0 +1,20 @@
+.Tab {
+  background-color: #fafafa;
+  padding: 2%;
+  width: 59%;
+  margin: 3% auto;
+}
+.ToDoList {
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*background-color: #00f1ff;*/
+  font-size: 12px;
+}
+.SeatsInfoDiv {
+  margin-top: 5%;
+  /*display: flex;*/
+  text-align: center;
+}
+.RadioGroup {
+  float: right;
+}

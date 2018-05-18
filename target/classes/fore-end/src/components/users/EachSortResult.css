@@ -1,0 +1,25 @@
+.EachSortResult {
+  width: 64%;
+}
+.EachSortResult img{
+  width: 90%;
+}
+.EachSortResult span {
+  margin-left: 5%;
+  font-size: 15px;
+  font-weight: 500;
+}
+.Text {
+  padding-top: 10%;
+}
+.BuyTagCol {
+  padding-top: 20%;
+}
+.BuyTag {
+  background-color: #ff8403;
+  color: white;
+  border: none;
+  width: 93%;
+  font-size: 20px;
+  text-align: center;
+}

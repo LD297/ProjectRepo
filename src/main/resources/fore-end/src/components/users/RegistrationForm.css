@@ -1,0 +1,16 @@
+.RegistrationPane {
+  padding: 5% 0 5% 0;
+}
+.RegistrationPane h1 {
+  margin-left: 28%;
+}
+.FormItem {
+  width: 80%;
+}
+.Btn {
+  width: 50%;
+  margin-left: -25%;
+}
+.ElseWhere {
+  margin-left: -4%;
+}

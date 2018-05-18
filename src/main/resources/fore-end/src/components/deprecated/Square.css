@@ -1,0 +1,39 @@
+.square {
+  width: 15px;
+  height: 15px;
+  margin: 3px;
+  /*border: 1px solid gray;*/
+  flex: 0 0 auto;
+}
+/*锁定*/
+.black {
+  border: 2px solid black;
+}
+/*无效(场馆视角)||已选(用户视角) */
+.grey {
+  background-color: #bebebe;
+}
+/*一等*/
+.levelOne {
+  background-color: #FF366D;
+}
+/*二等*/
+.levelTwo {
+  background-color: #ff8403;
+}
+/*三等*/
+.levelThree {
+  background-color: #fffe04;
+}
+/*四等*/
+.levelFour {
+  background-color: #00f1ff;
+}
+/*五等*/
+.levelFive {
+  background-color: #007aff;
+}
+/*用户选择*/
+.green {
+  background-color: #28e61b;
+}

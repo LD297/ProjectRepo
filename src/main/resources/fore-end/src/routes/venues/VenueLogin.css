@@ -1,0 +1,18 @@
+.VenueLogin {
+  margin-top: 12%;
+  /*background-color: pink;*/
+  text-align: center;
+  padding: 2% 0;
+}
+.VenueLogin hr {
+  margin-bottom: 3%;
+  width: 16%;
+}
+.IDInput {
+  width: 10%;
+  margin-bottom: 2%;
+}
+.LoginBtn {
+  margin-top: 1%;
+  width: 16%;
+}

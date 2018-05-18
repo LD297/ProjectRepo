@@ -1,0 +1,45 @@
+.Tab {
+  background-color: #fafafa;
+  padding: 2%;
+  width: 59%;
+  margin: 3% auto;
+}
+.PayNowBtn {
+  background-color: rgb(255, 92, 0);
+  color: white;
+  font-size: 16px;
+  float: right;
+}
+.CancelOrderBtn {
+  /*background-color: rgb(111, 111, 111);*/
+  /*color: white;*/
+  font-size: 16px;
+  margin-right: 1%;
+  float: right;
+}
+.HasPayedBtn {
+  float: right;
+  font-size: 16px;
+  margin-right: 3%;
+  font-weight: 800;
+}
+.RefundBtn {
+  float: right;
+  font-size: 16px;
+  margin-right: 3%;
+  font-weight: 800;
+}
+.HasCanceledBtn {
+  float: right;
+  font-size: 16px;
+  color: rgb(102, 102, 102);
+  margin-right: 3%;
+  font-weight: 800;
+}
+.OverTimeBtn {
+  float: right;
+  font-size: 16px;
+  color: rgb(102, 102, 102);
+  margin-right: 3%;
+  font-weight: 800;
+}

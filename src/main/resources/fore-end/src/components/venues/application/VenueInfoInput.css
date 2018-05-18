@@ -1,0 +1,45 @@
+.stepsContent {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 6px;
+  background-color: #fafafa;
+  min-height: 200px;
+  text-align: center;
+  padding-top: 80px;
+}
+.stepsAction {
+  margin-top: 24px;
+}
+.BasicInfoDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.AddressInput {
+  width: 160px;
+}
+.StageNameInputDiv {
+  margin-top: 2%;
+}
+.StageNameInput {
+  width: 160px;
+}
+.PswInput {
+  width: 160px;
+}
+.PswInputDiv {
+  margin: 2% 0 10% 0;
+}
+.AddSquresDiv {
+  padding-bottom: 10%;
+}
+.PreSetInfoDiv {
+  padding-bottom: 10%;
+}
+.StageNameDiv {
+  text-align: left;
+  padding-left: 31.7%;
+}
+.StageNameInput {
+  width: 15%;
+}

@@ -1,0 +1,18 @@
+.MyShowList {
+  width: 60%;
+  margin: 5% auto;
+}
+.EachShow {
+  margin-bottom: 5%;
+}
+.Poster {
+  width: 20%;
+  float: left;
+  margin: 0 5% 2% 0;
+}
+.Clear {
+  clear: both;
+}
+.CheckTicketsBtn {
+  margin-right: 5px;
+}

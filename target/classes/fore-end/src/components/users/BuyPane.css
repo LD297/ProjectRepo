@@ -1,0 +1,44 @@
+.BuyPaneRow {
+  margin-top: 2%;
+  padding: 2% 0 2% 0;
+  background-color: rgb(255, 255, 255);
+}
+.BuyPaneRow img {
+  width: 100%;
+}
+.BuyPaneSeatCol {
+  margin-top: 2%;
+  padding: 2% 0 2% 4%;
+  background-color: rgb(255, 255, 255);
+  min-height: 400px;
+}
+.PriceRadioBtn {
+  font-size: 16px;
+}
+.CostSpan {
+  color: rgb(255, 92, 0);
+  font-size: 24px;
+  font-weight: 800;
+}
+.BuyBtn {
+  background-color: rgb(255, 92, 0);
+  color: white;
+  font-size: 16px;
+}
+.SeatsBtn {
+  background-color: #ff366d;
+  color: white;
+  font-size: 16px;
+}
+/*.SeatsTag {*/
+  /**/
+/*}*/
+.AdsPane {
+  margin-top: 2%;
+  background-color: rgb(255, 255, 255);
+  padding: 5% 0 5% 0;
+  text-align: center;
+}
+.AdsPane img {
+  width: 75%;
+}

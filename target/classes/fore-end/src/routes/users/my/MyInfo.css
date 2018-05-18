@@ -1,0 +1,9 @@
+.MyInfoPane {
+  width: 60%;
+  margin: 5% auto;
+  padding-left: 10%;
+  min-height: 420px;
+}
+.NameInput {
+  width: 10%;
+}

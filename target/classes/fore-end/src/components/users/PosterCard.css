@@ -1,0 +1,24 @@
+.Main {
+  margin-top: 5%;
+  padding: 5% 5% 5% 5%;
+}
+.Card {
+  padding: 5% 5% 5% 5%;
+  border: solid 1px pink;
+}
+.Card img {
+  margin-left: 10%;
+  width: 80%;
+}
+.ShowName {
+  margin: 4% 0 8% 10%;
+  width: 80%;
+}
+.ShowPrice {
+  margin-left: 8%;
+  color: #FF5200;
+}
+.ShowPlace {
+  float: right;
+  margin-right: 10%;
+}

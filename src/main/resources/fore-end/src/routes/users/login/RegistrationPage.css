@@ -1,0 +1,8 @@
+.FloatPane {
+  margin: 5% 10% 5% 10%;
+  padding: 5% 7% 7% 7%;
+  background-color: #fbf1ef;
+}
+.Body {
+  flex: 1 0 auto;
+}
